@@ -23,5 +23,5 @@ Hệ thống đặt phòng khách sạn trực tuyến giúp khách hàng dễ d
 
 ### Bước 1: Clone dự án
 ```bash
-git clone https://github.com/your-repo/HotelManagement.git
+git clone https://github.com/Bingil35/HotelManagement.git
 cd HotelManagement
