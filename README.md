@@ -14,9 +14,9 @@ Hệ thống đặt phòng khách sạn trực tuyến giúp khách hàng dễ d
 ## Công nghệ sử dụng
 | Thành phần        | Công nghệ                         |
 |-------------------|----------------------------------|
-| Frontend          | HTML5, CSS3, JavaScript, React   |
-| Backend           | Node.js (Express) / hoặc Laravel |
-| Cơ sở dữ liệu     | MySQL / PostgreSQL                |
+| Frontend          | HTML5, CSS3, JavaScript   |
+| Backend           | PHP |
+| Cơ sở dữ liệu     | MySQL / MSSQL                |
 | Thanh toán        | VNPay / Momo / Stripe API        |
 
 ## Cài đặt & chạy dự án
